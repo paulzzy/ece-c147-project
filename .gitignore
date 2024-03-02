@@ -1,6 +1,7 @@
 # Python-related
 .ipynb_checkpoints
 .venv
+.ruff_cache
 
 # macOS
 .DS_Store
