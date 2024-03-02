@@ -1,0 +1,6 @@
+# Python-related
+.ipynb_checkpoints
+.venv
+
+# macOS
+.DS_Store
