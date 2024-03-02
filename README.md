@@ -21,3 +21,7 @@ Assumes Python is installed as `python3`.
     ```sh
     pip install -r requirements.txt
     ```
+5. Run Jupyter notebooks
+    ```sh
+    jupyter lab
+    ```
